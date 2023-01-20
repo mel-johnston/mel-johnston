@@ -2,9 +2,6 @@
 
 ___
 
-<br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mel-johnston.id&left_color=grey&right_color=black)
 
 <!--
 **mel-johnston/mel-johnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
