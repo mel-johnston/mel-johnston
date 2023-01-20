@@ -1,4 +1,4 @@
-### Hi there 👋
+![my great header banner](banner.png)
 
 <!--
 **mel-johnston/mel-johnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
